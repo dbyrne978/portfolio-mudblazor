@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "o1TWkceNgwRA9fJ2BL+Zd8MOlglA0EgmHHHqup/id+MyN62LvZQZY1yFdX4ZvbmTEWaMP2SBHIJC6JURnagA0A==",
+  "dgSpecHash": "CtHWuoef+DOSf6BgPcnxI8QH7yY1LFWIVEb9IlSMGbFnJ5EgI7aYchDy4zP75/w4PUuEAakfZ1Ym621m9w3C6A==",
   "success": true,
   "projectFilePath": "C:\\Users\\dbyrn\\source\\repos\\portfolio-mudblazor\\PortfolioMudBlazor.csproj",
   "expectedPackageFiles": [
@@ -29,6 +29,7 @@
     "C:\\Users\\dbyrn\\.nuget\\packages\\microsoft.jsinterop\\6.0.7\\microsoft.jsinterop.6.0.7.nupkg.sha512",
     "C:\\Users\\dbyrn\\.nuget\\packages\\microsoft.jsinterop.webassembly\\6.0.7\\microsoft.jsinterop.webassembly.6.0.7.nupkg.sha512",
     "C:\\Users\\dbyrn\\.nuget\\packages\\mudblazor\\6.0.13\\mudblazor.6.0.13.nupkg.sha512",
+    "C:\\Users\\dbyrn\\.nuget\\packages\\mudblazor.thememanager\\1.0.7\\mudblazor.thememanager.1.0.7.nupkg.sha512",
     "C:\\Users\\dbyrn\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
     "C:\\Users\\dbyrn\\.nuget\\packages\\system.io.pipelines\\6.0.3\\system.io.pipelines.6.0.3.nupkg.sha512",
     "C:\\Users\\dbyrn\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",

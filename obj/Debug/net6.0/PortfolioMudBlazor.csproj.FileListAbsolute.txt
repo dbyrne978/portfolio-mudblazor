@@ -819,3 +819,7 @@ C:\Users\dbyrn\source\repos\portfolio-mudblazor\obj\Debug\net6.0\PortfolioMudBla
 C:\Users\dbyrn\source\repos\portfolio-mudblazor\obj\Debug\net6.0\refint\PortfolioMudBlazor.dll
 C:\Users\dbyrn\source\repos\portfolio-mudblazor\obj\Debug\net6.0\PortfolioMudBlazor.pdb
 C:\Users\dbyrn\source\repos\portfolio-mudblazor\obj\Debug\net6.0\ref\PortfolioMudBlazor.dll
+C:\Users\dbyrn\source\repos\portfolio-mudblazor\bin\Debug\net6.0\wwwroot\_framework\MudBlazor.ThemeManager.dll
+C:\Users\dbyrn\source\repos\portfolio-mudblazor\bin\Debug\net6.0\wwwroot\_framework\MudBlazor.ThemeManager.dll.gz
+C:\Users\dbyrn\source\repos\portfolio-mudblazor\bin\Debug\net6.0\MudBlazor.ThemeManager.dll
+C:\Users\dbyrn\source\repos\portfolio-mudblazor\obj\Debug\net6.0\build-gz\OWIurUdA.gz

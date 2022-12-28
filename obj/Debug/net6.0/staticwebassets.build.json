@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "7fYhSVivfEopcoiRwfA2OPNZn31SQ+WeGxdhS4HfkVc=",
+  "Hash": "EWlGFrMzCqhApr6IhUhsvM9nS+FKdFzec+wUHoEWjZg=",
   "Source": "PortfolioMudBlazor",
   "BasePath": "/",
   "Mode": "Root",
@@ -16,6 +16,23 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "C:\\Users\\dbyrn\\.nuget\\packages\\mudblazor.thememanager\\1.0.7\\staticwebassets\\MudBlazorThemeManager.css",
+      "SourceId": "MudBlazor.ThemeManager",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\dbyrn\\.nuget\\packages\\mudblazor.thememanager\\1.0.7\\staticwebassets\\",
+      "BasePath": "_content/MudBlazor.ThemeManager",
+      "RelativePath": "MudBlazorThemeManager.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\dbyrn\\.nuget\\packages\\mudblazor.thememanager\\1.0.7\\staticwebassets\\MudBlazorThemeManager.css"
+    },
     {
       "Identity": "C:\\Users\\dbyrn\\.nuget\\packages\\mudblazor\\6.0.13\\staticwebassets\\MudBlazor.min.css",
       "SourceId": "MudBlazor",
@@ -729,6 +746,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\dbyrn\\.nuget\\packages\\mudblazor\\6.0.13\\lib\\net6.0\\MudBlazor.dll"
+    },
+    {
+      "Identity": "C:\\Users\\dbyrn\\source\\repos\\portfolio-mudblazor\\bin\\Debug\\net6.0\\wwwroot\\_framework\\MudBlazor.ThemeManager.dll",
+      "SourceId": "PortfolioMudBlazor",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\dbyrn\\source\\repos\\portfolio-mudblazor\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/MudBlazor.ThemeManager.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\dbyrn\\.nuget\\packages\\mudblazor.thememanager\\1.0.7\\lib\\net6.0\\MudBlazor.ThemeManager.dll"
     },
     {
       "Identity": "C:\\Users\\dbyrn\\source\\repos\\portfolio-mudblazor\\bin\\Debug\\net6.0\\wwwroot\\_framework\\netstandard.dll",
@@ -5557,6 +5591,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\dbyrn\\source\\repos\\portfolio-mudblazor\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Resources.Reader.dll"
+    },
+    {
+      "Identity": "C:\\Users\\dbyrn\\source\\repos\\portfolio-mudblazor\\obj\\Debug\\net6.0\\build-gz\\OWIurUdA.gz",
+      "SourceId": "PortfolioMudBlazor",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\dbyrn\\source\\repos\\portfolio-mudblazor\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/MudBlazor.ThemeManager.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\dbyrn\\source\\repos\\portfolio-mudblazor\\bin\\Debug\\net6.0\\wwwroot\\_framework\\MudBlazor.ThemeManager.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\dbyrn\\source\\repos\\portfolio-mudblazor\\bin\\Debug\\net6.0\\wwwroot\\_framework\\MudBlazor.ThemeManager.dll"
     },
     {
       "Identity": "C:\\Users\\dbyrn\\source\\repos\\portfolio-mudblazor\\obj\\Debug\\net6.0\\build-gz\\P5A6zPzl.gz",
