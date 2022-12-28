@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "GX7INJblj9ZOo6MasNew3ibrPVHaNZs/9cOcAzKuy+4=",
+  "Hash": "7fYhSVivfEopcoiRwfA2OPNZn31SQ+WeGxdhS4HfkVc=",
   "Source": "PortfolioMudBlazor",
   "BasePath": "/",
   "Mode": "Root",
@@ -7021,12 +7021,12 @@
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "C:\\Users\\dbyrn\\source\\repos\\portfolio-mudblazor\\wwwroot\\sample-data\\weather.json",
+      "Identity": "C:\\Users\\dbyrn\\source\\repos\\portfolio-mudblazor\\wwwroot\\pdfs\\Daniel-Byrne's-Resume.pdf",
       "SourceId": "PortfolioMudBlazor",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dbyrn\\source\\repos\\portfolio-mudblazor\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "sample-data/weather.json",
+      "RelativePath": "pdfs/Daniel-Byrne's-Resume.pdf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -7035,7 +7035,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\sample-data\\weather.json"
+      "OriginalItemSpec": "wwwroot\\pdfs\\Daniel-Byrne's-Resume.pdf"
     }
   ]
 }

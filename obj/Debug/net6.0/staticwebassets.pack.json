@@ -37,8 +37,8 @@
       "PackagePath": "staticwebassets\\index.html"
     },
     {
-      "Id": "C:\\Users\\dbyrn\\source\\repos\\portfolio-mudblazor\\wwwroot\\sample-data\\weather.json",
-      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+      "Id": "C:\\Users\\dbyrn\\source\\repos\\portfolio-mudblazor\\wwwroot\\pdfs\\Daniel-Byrne's-Resume.pdf",
+      "PackagePath": "staticwebassets\\pdfs\\Daniel-Byrne's-Resume.pdf"
     },
     {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.PortfolioMudBlazor.Microsoft.AspNetCore.StaticWebAssets.props",

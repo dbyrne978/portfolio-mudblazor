@@ -1,0 +1,16 @@
+﻿@inject IJSRuntime JS
+
+<MudButton StartIcon="@Icons.Filled.FileDownload"
+           Color="Color.Inherit"
+           OnClick="DownloadFileFromURL">
+    My Resume
+</MudButton>
+
+@code {
+    private async Task DownloadFileFromURL()
+    {
+        var fileName = "Daniel Byrne's Resume.pdf";
+        var fileURL = "https://localhost:44398/pdfs/Daniel-Byrne's-Resume.pdf";
+        await JS.InvokeVoidAsync("triggerFileDownload", fileName, fileURL);
+    }
+}
