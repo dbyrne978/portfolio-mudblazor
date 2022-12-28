@@ -13,6 +13,22 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\dbyrn\\source\\repos\\portfolio-mudblazor\\wwwroot\\images\\etch-a-sketch.png",
+      "PackagePath": "staticwebassets\\images\\etch-a-sketch.png"
+    },
+    {
+      "Id": "C:\\Users\\dbyrn\\source\\repos\\portfolio-mudblazor\\wwwroot\\images\\landing-page.png",
+      "PackagePath": "staticwebassets\\images\\landing-page.png"
+    },
+    {
+      "Id": "C:\\Users\\dbyrn\\source\\repos\\portfolio-mudblazor\\wwwroot\\images\\legacy-staples.png",
+      "PackagePath": "staticwebassets\\images\\legacy-staples.png"
+    },
+    {
+      "Id": "C:\\Users\\dbyrn\\source\\repos\\portfolio-mudblazor\\wwwroot\\images\\rock-paper-scissors.png",
+      "PackagePath": "staticwebassets\\images\\rock-paper-scissors.png"
+    },
+    {
       "Id": "C:\\Users\\dbyrn\\source\\repos\\portfolio-mudblazor\\wwwroot\\images\\selfie.jpg",
       "PackagePath": "staticwebassets\\images\\selfie.jpg"
     },
