@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="BlazorApp120221223175730" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\dbyrn\\source\\repos\\portfolio-mudblazor\\obj\\Release\\net6\.0\\browser-wasm\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>

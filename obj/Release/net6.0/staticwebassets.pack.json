@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\dbyrn\\source\\repos\\portfolio-mudblazor\\bin\\Release\\net6.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\dbyrn\\source\\repos\\portfolio-mudblazor\\obj\\Release\\net6.0\\build-gz\\6do7dZHC.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\dbyrn\\source\\repos\\portfolio-mudblazor\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\dbyrn\\source\\repos\\portfolio-mudblazor\\wwwroot\\images\\etch-a-sketch.png",
+      "PackagePath": "staticwebassets\\images\\etch-a-sketch.png"
+    },
+    {
+      "Id": "C:\\Users\\dbyrn\\source\\repos\\portfolio-mudblazor\\wwwroot\\images\\landing-page.png",
+      "PackagePath": "staticwebassets\\images\\landing-page.png"
+    },
+    {
+      "Id": "C:\\Users\\dbyrn\\source\\repos\\portfolio-mudblazor\\wwwroot\\images\\legacy-staples.png",
+      "PackagePath": "staticwebassets\\images\\legacy-staples.png"
+    },
+    {
+      "Id": "C:\\Users\\dbyrn\\source\\repos\\portfolio-mudblazor\\wwwroot\\images\\rock-paper-scissors.png",
+      "PackagePath": "staticwebassets\\images\\rock-paper-scissors.png"
+    },
+    {
+      "Id": "C:\\Users\\dbyrn\\source\\repos\\portfolio-mudblazor\\wwwroot\\images\\selfie.jpg",
+      "PackagePath": "staticwebassets\\images\\selfie.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dbyrn\\source\\repos\\portfolio-mudblazor\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\dbyrn\\source\\repos\\portfolio-mudblazor\\wwwroot\\pdfs\\Daniel-Byrne's-Resume.pdf",
+      "PackagePath": "staticwebassets\\pdfs\\Daniel-Byrne's-Resume.pdf"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.PortfolioMudBlazor.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.build.PortfolioMudBlazor.props",
+      "PackagePath": "build\\PortfolioMudBlazor.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.PortfolioMudBlazor.props",
+      "PackagePath": "buildMultiTargeting\\PortfolioMudBlazor.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildTransitive.PortfolioMudBlazor.props",
+      "PackagePath": "buildTransitive\\PortfolioMudBlazor.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
