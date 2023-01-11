@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "+pyd+BEntSSA1FojUOgmsZ2qAE0BMVTBYKWsPyqNJiI=",
+  "Hash": "uV6xwmeqtmX0XGqC/ZYXwsO+grwK7TZyztxz8sgoFm4=",
   "Source": "PortfolioMudBlazor",
   "BasePath": "/",
   "Mode": "Root",
@@ -2633,6 +2633,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\dbyrn\\source\\repos\\portfolio-mudblazor\\wwwroot\\favicon_2.ico",
+      "SourceId": "PortfolioMudBlazor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\dbyrn\\source\\repos\\portfolio-mudblazor\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "favicon_2.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon_2.ico"
     },
     {
       "Identity": "C:\\Users\\dbyrn\\source\\repos\\portfolio-mudblazor\\wwwroot\\images\\etch-a-sketch.png",

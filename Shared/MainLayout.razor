@@ -7,24 +7,34 @@
 <MudLayout>
     <MudAppBar Elevation="0">
         <MudSpacer />
-        <MudIconButton
-            Icon="@Icons.Custom.Brands.GitHub"
-            Color="Color.Inherit"
-            Link="https://github.com/dbyrne978"
-            Target="_blank"
-        />
-        <MudIconButton
-            Icon="@Icons.Custom.Brands.LinkedIn"
-            Color="Color.Inherit"
-            Link="https://www.linkedin.com/in/daniel-byrne-dev/"
-            Target="_blank"
-        />
-        <MudIconButton
-            Icon="@Icons.Filled.Email"
-            Color="Color.Inherit"
-            Link="mailto:dbyrne978@gmail.com"
-            Target="_blank"
-        />
+
+        <MudTooltip Arrow="true" Color="Color.Info" Text="Daniel Byrne's GitHub Repos">
+            <MudIconButton
+                Icon="@Icons.Custom.Brands.GitHub"
+                Color="Color.Inherit"
+                Link="https://github.com/dbyrne978"
+                Target="_blank"
+            />
+        </MudTooltip>
+
+        <MudTooltip Arrow="true" Color="Color.Info" Text="Daniel Byrne's LinkedIn">
+            <MudIconButton
+                Icon="@Icons.Custom.Brands.LinkedIn"
+                Color="Color.Inherit"
+                Link="https://www.linkedin.com/in/daniel-byrne-dev/"
+                Target="_blank"
+            />
+        </MudTooltip>
+
+        <MudTooltip Arrow="true" Color="Color.Info" Text="Send Email to Daniel Byrne">
+            <MudIconButton
+                Icon="@Icons.Filled.Email"
+                Color="Color.Inherit"
+                Link="mailto:dbyrne978@gmail.com"
+                Target="_blank"
+            />
+        </MudTooltip>
+
     </MudAppBar>
     <MudMainContent>
         <MudContainer MaxWidth="MaxWidth.Large" Class="mb-2 pt-16">
