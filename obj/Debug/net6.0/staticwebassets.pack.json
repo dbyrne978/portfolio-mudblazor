@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\dbyrn\\source\\repos\\portfolio-mudblazor\\wwwroot\\favicon_2.ico",
+      "PackagePath": "staticwebassets\\favicon_2.ico"
+    },
+    {
       "Id": "C:\\Users\\dbyrn\\source\\repos\\portfolio-mudblazor\\wwwroot\\images\\etch-a-sketch.png",
       "PackagePath": "staticwebassets\\images\\etch-a-sketch.png"
     },
